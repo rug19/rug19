@@ -39,12 +39,20 @@
 
 </p>
 
-![Snake animation](https://github.com/rug19/rug19/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://github.com/rug19/rug19/assets/67665127/7f70762c-05b5-45a8-9998-309a084a7582)
 
 ## **Connect with me 👇**
 
+<p align="center">  
 <a href="https://discordapp.com/users/rug19"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
 <a href="https://www.instagram.com/ruan_gomes11/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" target="_blacket" alt="Instagram"/></a>
+</p>
 
+<div align="center">
 
+![Aniki Hamster (1)](https://github.com/rug19/rug19/assets/67665127/0a63871f-0083-4e6b-8c9a-2c069994bcaa)
+
+<h4 align="center">Thanks for Visiting! 😇</h4>
+
+</div>
 
