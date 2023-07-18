@@ -39,6 +39,8 @@
 
 </p>
 
+![Snake animation](https://github.com/rug19/rug19/blob/output/github-contribution-grid-snake.svg)
+
 ## **Connect with me 👇**
 
 <a href="https://discordapp.com/users/rug19"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
