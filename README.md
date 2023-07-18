@@ -42,7 +42,7 @@
 ## **Connect with me 👇**
 
 <a href="https://discordapp.com/users/rug19"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
-<a href="https://www.instagram.com/ruan_gomes19/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
+<a href="https://www.instagram.com/ruan_gomes19/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" target="_blacket" alt="Instagram"/></a>
 
 
 
