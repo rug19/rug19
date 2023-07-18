@@ -24,7 +24,7 @@
 
 ## **Overview 👉**
 
-<p>Hello, My name's Ruan Gomes and I'm currently learning programming at Digital College and I'm open to an oportunity to work as a developer.</p>
+<p>Hello, My name's Ruan Gomes, I'm currently studying programming at Digital College and I'm open to an oportunity to work as a developer full satck.</p>
 
 ## **Skills 🚀**
 
