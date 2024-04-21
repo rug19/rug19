@@ -24,7 +24,7 @@
 
 ## **Overview 👉**
 
-<p>"Hello! I'm Ruan Gomes, a programming enthusiast embarking on the journey of software development. Currently, I'm pursuing my degree in Analysis and Systems Development. I'm excited to learn and enhance my skills as a beginner programmer. I have experience in [mention any languages or technologies you've worked with], and I'm always seeking new challenges to expand my knowledge. I'm open to collaboration opportunities and eager to contribute to exciting projects!".</p>
+<p>"Hello! I'm Ruan Gomes, a programming enthusiast diving into the world of software development. Currently, I'm pursuing my degree in Analysis and Systems Development. I'm passionate about learning and honing my skills as a programmer. I thrive on tackling new challenges and am eager to contribute to exciting projects. Open to collaboration opportunities and looking forward to making meaningful contributions!".</p>
 
 ## **Skills 🚀**
 
