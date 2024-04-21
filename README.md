@@ -24,7 +24,7 @@
 
 ## **Overview 👉**
 
-<p>Hello, My name's Ruan Gomes, I'm currently studying programming at Digital College and I'm open to an oportunity to work as a developer full satck.</p>
+<p>"Hello! I'm Ruan Gomes, a programming enthusiast embarking on the journey of software development. Currently, I'm pursuing my degree in Analysis and Systems Development. I'm excited to learn and enhance my skills as a beginner programmer. I have experience in [mention any languages or technologies you've worked with], and I'm always seeking new challenges to expand my knowledge. I'm open to collaboration opportunities and eager to contribute to exciting projects!".</p>
 
 ## **Skills 🚀**
 
