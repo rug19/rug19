@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rug19/rug19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rug19/rug19/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -77,3 +77,4 @@
 
 <p align="center">Thanks for Visiting! 😇</p>
 
+###
