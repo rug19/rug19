@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rug19/rug19/output/github-user-contribution.svg" />
+<img src="https://raw.githubusercontent.com/rug19/rug19/main/output/github-user-contribution.svg" />
 
 ###
 
