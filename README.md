@@ -25,15 +25,10 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=rug19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rug19&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rug19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </div>
 </div>
 
-
-
-
-## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rug19&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=9" />
 </div>
